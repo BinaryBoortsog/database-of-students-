@@ -1,0 +1,10 @@
+Richard Ross,1993,CS,302,3,CS,367,3
+Sandra Bell,2000,CS,101,3
+Francis Mark,1993,Philosophy,101,3
+Michael,1995,CS,354,3,CS,402,2,Psychology,101,4
+Adalbert Gerald,1992,CS,302,3,CS,354,3
+Nick,1996,Math,500,4
+Sarah,1997,CS,101,3
+Ainur,1993,Literature,400,3
+Aparna,1992,Dance,300,3,CS,784,3,CS,880,4
+Mark Foster,1997,Engineering,302,3,Dance,300,3
